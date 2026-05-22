@@ -49,21 +49,29 @@ Performed detailed EDA using Python, including:
 - Overall banking KPI overview
 - Navigation to other dashboards
 - High-level business metrics
+- <img width="1203" height="672" alt="Screenshot 2026-05-22 130231" src="https://github.com/user-attachments/assets/8074f4d5-892e-40c2-a1c9-b1359d4b9ead" />
+
 
 ## 2. Loan Analysis Dashboard
 - Loan distribution analysis
 - Business lending analysis
 - Loan trends by customer categories
+- <img width="1207" height="673" alt="Screenshot 2026-05-22 130350" src="https://github.com/user-attachments/assets/37e6bf89-65c6-4682-9541-86eb477cf462" />
+
 
 ## 3. Deposit Analysis Dashboard
 - Deposit trends analysis
 - Savings & checking account analysis
 - Deposit segmentation
+- <img width="1206" height="675" alt="Screenshot 2026-05-22 130517" src="https://github.com/user-attachments/assets/15b45956-8d35-419f-a53e-adab775c072f" />
+
 
 ## 4. Summary Dashboard
 - Combined KPI insights
 - Customer segmentation summary
 - Banking relationship analysis
+- <img width="1207" height="673" alt="Screenshot 2026-05-22 130627" src="https://github.com/user-attachments/assets/e65b7820-ca81-4992-8b5d-24ee5cfc3051" />
+
 
 ---
 
